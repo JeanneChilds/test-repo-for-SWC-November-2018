@@ -3,3 +3,5 @@ Two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
 We consider Venus as a base.
 Add one line to Mars.
+The colour is red.
+Change number 2.
